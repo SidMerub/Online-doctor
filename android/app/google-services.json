@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473931085506",
+    "project_id": "doctor-consultation-app-42990",
+    "storage_bucket": "doctor-consultation-app-42990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473931085506:android:477fc552babe09072a6d5b",
+        "android_client_info": {
+          "package_name": "com.example.doctor_consultation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473931085506-vignefsth2dnk98ik67673dsfv5b8f4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakB0BLV5uIZzZE0-fqDXbzvqJf5ApGZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473931085506-vignefsth2dnk98ik67673dsfv5b8f4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
