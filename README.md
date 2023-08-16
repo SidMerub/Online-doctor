@@ -1,4 +1,4 @@
-# doctor_consultation_app
+# online_doctor
 
 A new Flutter project.
 
